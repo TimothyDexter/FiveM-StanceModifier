@@ -49,12 +49,8 @@ using System;
 using System.Threading.Tasks;
 using CitizenFX.Core;
 using CitizenFX.Core.Native;
-using FamilyRP.Roleplay.Client.Classes.Environment.UI;
-using FamilyRP.Roleplay.Client.Classes.Jobs.Police;
-using FamilyRP.Roleplay.Enums.Police;
-using FamilyRP.Roleplay.SharedClasses;
 
-namespace FamilyRP.Roleplay.Client.Classes.Player
+namespace Roleplay.Client.Classes.Player
 {
 	internal class Stance
 	{
