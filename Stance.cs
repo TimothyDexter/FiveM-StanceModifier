@@ -12,6 +12,7 @@
  *    This is a due to SCRIPTED_GUN_TASK_PLANE_WING
  * 
  * Please send any edits/improvements/bugs to this script back to the author. 
+ * Contribute via github.com/TimothyDexter
  * 
  * Usage 
  * - Control.Duck (Ctrl) is used to modify stance.  
